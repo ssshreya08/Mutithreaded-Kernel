@@ -1,2 +1,1 @@
-# Mutithreaded-Kernel
- Robust implementation enabling multitasking, time sharing, and efficient thread coordination.
+Small but fully functional operating system kernel that supports multithreaded programming and time sharing, along with some synchronization primitives such as semaphores and events. Written in C++, for x86 processor on 32-bit operating system host, for Operating Systems .
